@@ -5,4 +5,4 @@
 python rcnn_resnet50.py path/to/img.png
 ```
 #Example result
-![](./R-CNN/poodle2_box.png")
+![poodle2_box](./poodle2_box.png)
