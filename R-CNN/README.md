@@ -3,4 +3,5 @@
 ```
 python rcnn_resnet50.py path/to/img.png
 ```
-* Example result: ![poodle2_box](https://github.com/ChaseDreamInfinity/ResNet/tree/master/R-CNN/poodle2_box.png)
+* Example result
+<img src="R-CNN/poodle2_box.png" alt="poddle2_box" width="300px">
